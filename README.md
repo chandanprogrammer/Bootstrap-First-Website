@@ -1,8 +1,8 @@
-## bootstrap-first-website
+## Bootstrap First Website
 It is simple Bootstrap Website.
 In this web page only HTML, CSS and Bootstrap use.
 
-## Use Technology
+### Use Technology
 . HTML
 . CSS
 . Bootstrap
